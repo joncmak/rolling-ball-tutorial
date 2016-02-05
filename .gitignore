@@ -21,6 +21,7 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 
+# =========================
 # OSX
 # =========================
 
@@ -45,3 +46,29 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# =========================
+# Unity
+# =========================
+Temp/
+Obj/
+Build/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+sysinfo.txt
+*.stackdump
+
+# =========================
+# Visual Studio
+# =========================
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
